@@ -1,2 +1,2 @@
 # Asta-demo
-Gir repository
+Git repository
